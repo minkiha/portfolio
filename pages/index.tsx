@@ -4,10 +4,7 @@ import dexter from '../public/dexter.png'
 
 const Home: NextPage = () => {
   return (
-    <div>
-      <Image src={dexter}/>
-       
-    </div>
+    <div></div>
   )
 }
 
